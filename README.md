@@ -6,4 +6,4 @@ Helped gain a better understanding of how to work with objects in an Object-Orie
 [Original Project Specs](https://backend.turing.io/module1/projects/battleship/)
 
 ### Instructions ###
-To play, clone repo on to your local machine, `$ ruby runner.rb`, and follow the instructions!
+To play, clone repo on to your local machine, `$ ruby battleship-game-runner.rb`, and follow the instructions!
